@@ -6,12 +6,10 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            int a = 1;
-            while (a == 1)
-            {
+
                 Console.WriteLine("hello world");
-                Console.WriteLine("hello world");
-            }
+                
+  
         }
     }
 }
