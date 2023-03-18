@@ -10,7 +10,7 @@ namespace MyApp
             while (a == 1)
             {
                 Console.WriteLine("hello world");
-                
+                Console.WriteLine("hello world");
             }
         }
     }
